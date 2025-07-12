@@ -120,7 +120,7 @@ node app.js
 
 ## 🙋‍♂️ Author
 
-**Rachet Khadiratna**  
+**Choudhury Prasad Khadiratna**  
 B.Tech CSE, GIET University  
 Aspiring Machine Learning Engineer  
 Projects: SAR Image Colorization, Real-Time Face Recognition, Deepfake Detection  
