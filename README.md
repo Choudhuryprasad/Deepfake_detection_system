@@ -43,7 +43,7 @@ The model is trained on benchmark Deepfake datasets such as:
 | Backend       | Node.js, Express.js   |
 | Model         | PyTorch / TensorFlow  |
 | Video Processing | OpenCV, FFmpeg     |
-| Deployment    | Docker (optional)     |
+| Deployment    | VS Code               |
 | ML Libraries  | NumPy, Pandas, etc.   |
 
 ---
